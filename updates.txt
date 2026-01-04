@@ -1,8 +1,1 @@
-Some changes.
-Got all channels playing.
-Wuffy 1 & 3 no epg but can play channels.
-Wuffy 2 plays and has epg.
-Wuffy 4- not playing but I think I can get it to, has epg
-When in player watching channel, press center remote button 
-list will appear at bottom of screen showiong recent channels.
-To get out of recents list just hit back button.
+
