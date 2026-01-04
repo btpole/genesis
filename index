@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>APK Download</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #111;
+            color: #fff;
+            padding-top: 40px;
+        }
+        a {
+            display: inline-block;
+            margin: 15px;
+            padding: 15px 25px;
+            background: #1db954;
+            color: #000;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 8px;
+        }
+        a.secondary {
+            background: #444;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Genesis APK</h1>
+
+<a href="app-release.apk">⬇ Download APK</a>
+<br>
+<a class="secondary" href="notes.txt">📄 Release Notes</a>
+
+</body>
+</html>
